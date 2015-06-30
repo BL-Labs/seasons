@@ -47,5 +47,4 @@ if ($recentItems):
 
 <?php fire_plugin_hook('public_home', array('view' => $this)); ?>
 
-
 <?php echo foot(); ?>
